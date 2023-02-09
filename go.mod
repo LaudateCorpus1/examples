@@ -6,7 +6,7 @@ require (
 	github.com/dustin/go-broadcast v0.0.0-20171205050544-f664265f5a66
 	github.com/fatih/color v1.9.0
 	github.com/gin-gonic/autotls v0.0.0-20190406003154-fb31fc47f521
-	github.com/gin-gonic/gin v1.7.2
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-playground/validator/v10 v10.4.1
 	github.com/golang/protobuf v1.3.3
 	github.com/jessevdk/go-assets v0.0.0-20160921144138-4f4301a06e15
